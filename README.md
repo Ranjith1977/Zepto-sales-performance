@@ -120,7 +120,10 @@ The dataset was cleaned before analysis by:
 
 ## 📷 Dashboard Preview
 
-Image/Dashboard.png
+
+## 📷 Dashboard Preview
+
+![Dashboard](Image/Dashboard.png)
 
 ---
 
