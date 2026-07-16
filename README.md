@@ -131,14 +131,13 @@ Zepto-Sales-Analysis/
 ├── Dataset/
 │   └── zepto_sales_raw.xlsx
 │
-├── Zepto Sales.xlsx
-│  
-│
 ├── Documentation/
 │   └── Zepto_Sales_Analysis_Report.pdf
 │
 ├── Images/
 │   └── dashboard.png
+|  
+|── Zepto Sales.xlsx
 │
 ├── README.md
 │
