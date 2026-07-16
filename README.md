@@ -1,4 +1,3 @@
-
 # 📊 Zepto Sales Analysis Dashboard
 
 ## 📌 Project Overview
@@ -117,9 +116,6 @@ The dataset was cleaned before analysis by:
 - Plan inventory based on seasonal demand.
 
 ---
-
-## 📷 Dashboard Preview
-
 
 ## 📷 Dashboard Preview
 
