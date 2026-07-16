@@ -137,7 +137,7 @@ Zepto-Sales-Analysis/
 ├── Images/
 │   └── dashboard.png
 |  
-|── Zepto Sales.xlsx
+├──  Zepto Sales.xlsx
 │
 ├── README.md
 │
